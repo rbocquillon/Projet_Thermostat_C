@@ -1,0 +1,14 @@
+Faire le TP préparatoire au projet.
+
+Lire le sujet du projet.
+Consulter le schéma électronique de la carte virtuelle.
+Générer la documentation développeur avec Doxygen.
+
+Pour les tests unitaires, compiler en utilisant la configuration correspondant aux modules que
+vous devez développer.
+Lire la documentation développeur correspondant aux fonctions / modules que vous devez développer.
+NE PAS MODIFIER LES FICHIERS D'EN-TETE
+NE PAS MODIFIER LES PROGRAMMES DE TEST
+
+Pour l'intégration
+NE PAS MODIFIER LES FICHIERS D'EN-TETE
